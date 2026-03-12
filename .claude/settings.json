@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@6 . --template react-ts)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "WebFetch(domain:localhost)",
+      "WebFetch(domain:127.0.0.1)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(npm run:*)",
+      "Bash(lsof -ti:5173)",
+      "Bash(npx tsc:*)",
+      "Bash(git init:*)",
+      "Bash(printf 'node_modules\\\\ndist\\\\n.DS_Store\\\\n')",
+      "Bash(git add:*)"
+    ]
+  }
+}
