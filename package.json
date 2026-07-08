@@ -1,5 +1,5 @@
 {
-  "name": "monthly",
+  "name": "monthly-expense",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -7,10 +7,17 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "budget",
+    "expense-tracker",
+    "가계부",
+    "react",
+    "capacitor",
+    "personal-finance"
+  ],
+  "author": "jungdev24",
+  "license": "MIT",
+  "description": "토스 스타일 가계부 — 할부 자동 분할과 고정 수입/지출을 지원하는 웹·안드로이드 가계부",
   "dependencies": {
     "@capacitor/android": "^8.2.0",
     "@capacitor/cli": "^8.2.0",
