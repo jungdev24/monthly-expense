@@ -1,6 +1,8 @@
 # 💰 가계부 (Monthly Expense)
 
 > 토스 스타일의 깔끔한 가계부 웹 · 안드로이드 앱. 회원가입 없이, 내 데이터는 내 기기에만.
+>
+> _A privacy-first budget tracker — no signup, all data stays in your browser. Web + Android._
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-monthly--expense.pages.dev-000?style=flat-square)](https://monthly-expense.pages.dev)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
