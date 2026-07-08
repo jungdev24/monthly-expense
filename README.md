@@ -9,8 +9,9 @@
 
 가입도, 서버도 없습니다. 모든 데이터는 브라우저(localStorage)에만 저장돼서 어디로도 전송되지 않아요. 그런데 대부분의 가계부 앱이 놓치는 **카드 할부 자동 분할**과 **고정 수입/지출** 관리를 제대로 지원합니다.
 
-<!-- TODO: 아래에 실제 스크린샷을 넣으세요 (대시보드 / 내역 / 다크모드) -->
-<!-- ![대시보드](docs/screenshot-dashboard.png) -->
+| 대시보드 | 내역 | 다크모드 |
+|:---:|:---:|:---:|
+| ![대시보드](docs/screenshot-dashboard.png) | ![내역](docs/screenshot-transactions.png) | ![다크모드](docs/screenshot-darkmode.png) |
 
 ## ✨ 이런 게 됩니다
 
